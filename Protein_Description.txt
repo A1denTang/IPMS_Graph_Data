@@ -54834,13 +54834,13 @@
 
 >AT4G14245 | Symbols: AT4G14245 | structural constituent of ribosome protein | chr4:8208857-8210264 REVERSE LENGTH=1408
 
-> AT5G20995 | Symbols: | hypothetical protein | LENGTH=?
+>AT5G20995 | Symbols: | hypothetical protein | LENGTH=?
 
-> AT3G05850 | Symbols: MUG7 | domesticated transposable element gene MUSTANG 7 | chr3:1743537-1745943 REVERSE LENGTH=777
+>AT3G05850 | Symbols: MUG7 | domesticated transposable element gene MUSTANG 7 | chr3:1743537-1745943 REVERSE LENGTH=777
 
-> AT4G00295 | Symbols: | fringe-like protein | chr4:126509-128060 FORWARD LENGTH=467
+>AT4G00295 | Symbols: | fringe-like protein | chr4:126509-128060 FORWARD LENGTH=467
 
-> AT3G48187 | Symbols: | Serine/Threonine-kinase ATM | chr3:17797628-17800168 FORWARD LENGTH=846
+>AT3G48187 | Symbols: | Serine/Threonine-kinase ATM | chr3:17797628-17800168 FORWARD LENGTH=846
 
-> AT5G15025 | Symbols: | paired amphipathic helix Sin3-like protein | LENGTH=?  
+>AT5G15025 | Symbols: | paired amphipathic helix Sin3-like protein | LENGTH=?  
 
